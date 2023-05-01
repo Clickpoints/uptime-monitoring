@@ -21,7 +21,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://clkpts.uk/res/img/wordmark-black.png
   name: CP (UKI) - Uptime Monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   theme: light
   navbar:
     - title: Status
