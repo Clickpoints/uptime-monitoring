@@ -11,9 +11,13 @@ sites:
     url: https://s03.cloud.clkpts.co.uk
   - name: S04
     url: https://s04.cloud.clkpts.co.uk
-  - name: S04
+  - name: S05
     url: https://s05.cloud.clkpts.co.uk
-
+  - name: S01-INT
+    url: http://s01.office.clkpts.co.uk/
+  - name: S01-TD
+    url: https://topdevelop.xyz
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
