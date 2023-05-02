@@ -5,26 +5,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/s01.cloud.clkpts.uk.ico",
     "slug": "s01-cpuk-gra",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-05-02": 7
-    }
-  },
-  {
-    "name": "S02-CPUK-LON",
-    "url": "http://s02.cloud.clkpts.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/s02.cloud.clkpts.uk.ico",
-    "slug": "s02-cpuk-lon",
-    "status": "down",
     "uptime": "0.37%",
     "uptimeDay": "0.37%",
     "uptimeWeek": "0.37%",
@@ -40,24 +20,42 @@
     }
   },
   {
+    "name": "S02-CPUK-LON",
+    "url": "http://s02.cloud.clkpts.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/s02.cloud.clkpts.uk.ico",
+    "slug": "s02-cpuk-lon",
+    "status": "down",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-02": 7
+    }
+  },
+  {
     "name": "S03-CPUK-SBG",
     "url": "http://s03.cloud.clkpts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/s03.cloud.clkpts.co.uk.ico",
     "slug": "s03-cpuk-sbg",
     "status": "up",
-    "uptime": "3.45%",
-    "uptimeDay": "3.45%",
-    "uptimeWeek": "3.45%",
-    "uptimeMonth": "3.45%",
-    "uptimeYear": "3.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 259,
     "timeDay": 259,
     "timeWeek": 259,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2023-05-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "S04-CPUK-LON",
@@ -65,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s04.cloud.clkpts.co.uk.ico",
     "slug": "s04-cpuk-lon",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -159,18 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s03.all-green.co.uk.ico",
     "slug": "s03-agsw-lon",
     "status": "up",
-    "uptime": "1.79%",
-    "uptimeDay": "1.79%",
-    "uptimeWeek": "1.79%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "1.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1219,
     "timeDay": 1219,
     "timeWeek": 1219,
     "timeMonth": 1219,
     "timeYear": 1219,
-    "dailyMinutesDown": {
-      "2023-05-02": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
