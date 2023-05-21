@@ -1,7 +1,7 @@
 url: http://s03.all-green.co.uk
-status: up
-code: 200
-responseTime: 9126
-lastUpdated: 2023-05-20T23:08:28.129Z
+status: down
+code: 502
+responseTime: 2812
+lastUpdated: 2023-05-21T21:09:25.520Z
 startTime: Tue May 02 2023 11:58:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
