@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-16": 68,
+      "2023-06-16": 156,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -145,7 +145,7 @@
     "url": "http://s01.office.clkpts.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/s01.office.clkpts.co.uk.ico",
     "slug": "s01-int",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
     "uptimeDay": "97.04%",
     "uptimeWeek": "98.14%",
@@ -157,6 +157,7 @@
     "timeMonth": 1400,
     "timeYear": 1726,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-06-15": 43,
       "2023-06-14": 42,
       "2023-06-12": 84,
