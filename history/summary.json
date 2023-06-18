@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 77,
+      "2023-06-18": 397,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -200,18 +200,20 @@
     "url": "http://s02.all-green.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/s02.all-green.co.uk.ico",
     "slug": "s02-agsw-lon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 176,
-    "timeWeek": 232,
-    "timeMonth": 245,
-    "timeYear": 271,
-    "dailyMinutesDown": {}
+    "time": 357,
+    "timeDay": 2389,
+    "timeWeek": 778,
+    "timeMonth": 381,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2023-06-18": 0
+    }
   },
   {
     "name": "S03-AGSW-LON",
