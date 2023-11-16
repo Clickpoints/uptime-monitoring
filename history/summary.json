@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 659,
+      "2023-11-16": 939,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -299,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s01.office.clkpts.co.uk.ico",
     "slug": "s01-int",
     "status": "down",
-    "uptime": "42.00%",
+    "uptime": "41.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.00%",
+    "uptimeYear": "41.96%",
     "time": 1680,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1680,
     "dailyMinutesDown": {
-      "2023-11-16": 659,
+      "2023-11-16": 939,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -459,9 +459,9 @@
     "url": "https://topdevelop.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/topdevelop.xyz.ico",
     "slug": "s01-tdnl-bgm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -470,7 +470,9 @@
     "timeWeek": 1137,
     "timeMonth": 1246,
     "timeYear": 1258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "S02-AGSW-LON",
