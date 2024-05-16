@@ -1,7 +1,7 @@
 url: http://s02.all-green.co.uk
-status: up
-code: 200
-responseTime: 227
-lastUpdated: 2024-05-15T23:11:02.713Z
+status: down
+code: 500
+responseTime: 29468
+lastUpdated: 2024-05-16T10:48:14.360Z
 startTime: 2023-05-02T11:57:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
