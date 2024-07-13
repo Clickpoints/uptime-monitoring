@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s02.cloud.clkpts.uk.ico",
     "slug": "s02-cpuk-lon",
     "status": "down",
-    "uptime": "67.56%",
+    "uptime": "67.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.20%",
+    "uptimeYear": "60.93%",
     "time": 158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-07-12": 61,
+      "2024-07-13": 62,
+      "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
@@ -191,10 +192,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 356,
-    "timeWeek": 296,
-    "timeMonth": 290,
-    "timeYear": 275,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 291,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -214,7 +215,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-12": 61,
+      "2024-07-13": 62,
+      "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
@@ -577,8 +579,7 @@
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
-      "2023-07-15": 1440,
-      "2023-07-14": 1440
+      "2023-07-15": 1440
     }
   },
   {
@@ -593,9 +594,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 313,
-    "timeWeek": 261,
-    "timeMonth": 240,
+    "timeDay": 210,
+    "timeWeek": 254,
+    "timeMonth": 241,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -605,18 +606,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s01.office.clkpts.co.uk.ico",
     "slug": "s01-int",
     "status": "down",
-    "uptime": "19.10%",
+    "uptime": "19.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.26%",
-    "time": 1521,
+    "uptimeYear": "2.99%",
+    "time": 1490,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2078,
+    "timeYear": 1881,
     "dailyMinutesDown": {
-      "2024-07-12": 61,
+      "2024-07-13": 62,
+      "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
@@ -971,8 +973,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1332,
       "2023-07-18": 17,
-      "2023-07-15": 40,
-      "2023-07-14": 37
+      "2023-07-15": 40
     }
   },
   {
@@ -981,18 +982,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/topdevelop.xyz.ico",
     "slug": "s01-tdnl-bgm",
     "status": "down",
-    "uptime": "45.39%",
+    "uptime": "45.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.69%",
+    "uptimeYear": "34.41%",
     "time": 1258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1227,
+    "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-07-12": 61,
+      "2024-07-13": 62,
+      "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
@@ -1245,11 +1247,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 273,
-    "timeMonth": 275,
-    "timeYear": 341,
+    "time": 338,
+    "timeDay": 292,
+    "timeWeek": 284,
+    "timeMonth": 278,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   },
   {
@@ -1263,11 +1265,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1070,
-    "timeDay": 311,
-    "timeWeek": 272,
-    "timeMonth": 265,
-    "timeYear": 863,
+    "time": 1068,
+    "timeDay": 232,
+    "timeWeek": 280,
+    "timeMonth": 266,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2023-12-29": 866,
       "2023-12-28": 184,
@@ -1276,8 +1278,7 @@
       "2023-10-17": 21,
       "2023-09-05": 327,
       "2023-09-04": 22,
-      "2023-09-01": 31,
-      "2023-07-14": 40
+      "2023-09-01": 31
     }
   }
 ]
