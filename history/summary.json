@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-04-17": 624,
+      "2025-04-17": 644,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -247,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2025-04-17": 624,
+      "2025-04-17": 644,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -651,7 +651,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 624,
+      "2025-04-17": 644,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1023,19 +1023,19 @@
     "url": "http://s05.cloud.clkpts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/s05.cloud.clkpts.co.uk.ico",
     "slug": "s05-cpuk-lon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 570,
-    "timeWeek": 346,
-    "timeMonth": 281,
+    "timeDay": 414,
+    "timeWeek": 335,
+    "timeMonth": 280,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-04-17": 1
+      "2025-04-17": 20
     }
   },
   {
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 624,
+      "2025-04-17": 644,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1584,10 +1584,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/s03.all-green.co.uk.ico",
     "slug": "s03-agsw-lon",
     "status": "down",
-    "uptime": "98.14%",
+    "uptime": "98.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.09%",
+    "uptimeMonth": "60.04%",
     "uptimeYear": "96.67%",
     "time": 326,
     "timeDay": 0,
@@ -1595,7 +1595,7 @@
     "timeMonth": 253,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-04-17": 624,
+      "2025-04-17": 644,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
